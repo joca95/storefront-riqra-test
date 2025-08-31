@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DEBUG": "sellers:*",
+    "NODE_ENV": "development"
+  },
+  "exec": "node -r @swc/register src/server"
+}
